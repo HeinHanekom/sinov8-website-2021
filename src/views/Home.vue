@@ -94,7 +94,7 @@
       <div class="lg:grid lg:grid-cols-2 lg:gap-24 lg:items-center">
         <div>
           <h2 class="text-3xl font-extrabold text-gray-900 tracking-tight sm:text-4xl">
-            Backed by rock solid, battle tested technologies
+            Backed by rock solid, battle tested technologies & world class partners
           </h2>
           <p class="mt-6 max-w-3xl text-lg leading-7 text-gray-500">
             We believe in using technologies that has been around the block but that also continues to push the
@@ -132,8 +132,6 @@ const logos = [
   {name: 'VueJS', url: 'http://localhost:3000/public/images/logo_vuejs.png'},
   {name: 'AWS', url: 'http://localhost:3000/public/images/logo_aws.png'},
   {name: 'Synthesis', url: 'http://localhost:3000/public/images/logo_synthesis.png'},
-  {name: 'WeconnectU', url: 'http://localhost:3000/public/images/logo_weconnectu.png'},
-  {name: 'WeconnectU', url: 'http://localhost:3000/public/images/logo_weconnectu.png'},
   {name: 'WeconnectU', url: 'http://localhost:3000/public/images/logo_weconnectu.png'},
 ]
 

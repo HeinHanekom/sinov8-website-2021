@@ -1,5 +1,5 @@
 // vite.config.js
-import {defineConfig} from 'vite'
+/*import {defineConfig} from 'vite'*/
 import vue from '@vitejs/plugin-vue'
 import path from 'path'
 
@@ -17,9 +17,9 @@ export default ({command}) => ({
     plugins: [vue()],
     build: {
         manifest: true,
-        outDir: 'public/build',
+        outDir: 'public',
         rollupOptions: {
-            input: 'resources/js/app.js',
+            input: 'src/main.js',
         },
     },
     css: {
