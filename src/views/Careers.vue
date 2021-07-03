@@ -174,7 +174,7 @@
 </template>
 
 <script>
-import ApplicationSteps from "@/components/ApplicationSteps.vue";
+import ApplicationSteps from "./../components/ApplicationSteps.vue";
 
 export default {
   components: {ApplicationSteps}

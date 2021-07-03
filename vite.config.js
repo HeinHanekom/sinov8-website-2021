@@ -17,9 +17,9 @@ export default ({command}) => ({
     plugins: [vue()],
     build: {
         manifest: true,
-        outDir: 'public/build',
+        outDir: 'dist',
         rollupOptions: {
-            input: 'resources/js/app.js',
+            input: 'src/main.js',
         },
     },
     css: {
